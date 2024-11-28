@@ -15,7 +15,7 @@ public class Fiscalite {
 
         lotissement.afficherProprietes();
 
-        // Lotissement Privé
+
         LotissementPrivee lotissementPrivee = new LotissementPrivee(10);
         lotissementPrivee.ajouter(new ProprietePrivee(6, p1, "Sidi Bou Said", 500, 5));
         lotissementPrivee.ajouter(new Villa(7, p3, "Carthage", 600, 7, true));

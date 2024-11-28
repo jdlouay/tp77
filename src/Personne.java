@@ -34,7 +34,7 @@ public class Personne {
         this.cin = cin;
     }
 
-    @Override
+
     public String toString() {
         return "Personne{" +
                 "cin=" + cin +

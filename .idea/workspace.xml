@@ -5,23 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6ff419ce-a90a-4055-b47d-eea640f5d0a1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Fiscalite.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GestionPropriete.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lotissement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LotissementPrivee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Personne.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Propriete.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ProprietePrivee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ProprieteProfessionnele.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Villa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/appartement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tp77.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Fiscalite.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Fiscalite.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Personne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Personne.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
